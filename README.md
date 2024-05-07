@@ -1,5 +1,8 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+
+## DATE:6-5-2024
+## NAME:MOHAMED AAKIF ASRAR S
+## REG NO:212223240088
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +39,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![MMMM](https://github.com/MOHAMEDAAKIFASRAR/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/148514683/659cc71e-4527-4af5-909b-5187aea98d79)
+
 
 
 ## RESULT:
